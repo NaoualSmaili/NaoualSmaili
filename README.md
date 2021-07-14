@@ -6,7 +6,7 @@
 <hr>
 
 <p>
-<a href="https://github.com/NaoualSmaili"><img src="https://img.shields.io/badge/-NaoualSmaili-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/naouals14/"><img src="https://img.shields.io/badge/-NaoualSmaili-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://github.com/NaoualSmaili"><img src="https://img.shields.io/badge/-Naoual-Smaili-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/naouals14/"><img src="https://img.shields.io/badge/-Naoual-Smaili-blue?logo=linkedin&style=flat-square"></a>
 <a href="n.smaili@insea.ac.ma"><img src="https://img.shields.io/badge/-n.smaili@insea.ac.ma-black?style=flat-square"/></a>
 </p>
